@@ -5,5 +5,6 @@ Projeto tirado do site front-end mentor. O projeto foi feito apenas com HTML5 e 
 Neste projeto você encontrará um diretorio com o design proposto a fazer e logo a baixo você encontrará o link desse projeto.
 
 ## Link: 
+https://3-column-preview-card-component-sigma-neon.vercel.app/
 
 ### Projeto 08
